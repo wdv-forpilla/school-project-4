@@ -1,0 +1,28 @@
+.item1 {
+    background:url('img/pic4a.jpg');
+    background-size: cover;
+    height: 100%;
+    grid-column: 2 / span 2;
+}
+.item3 {
+    background: url('img/pic14.jpg');
+    background-size: cover;
+}
+.item7 {
+    background: url('img/pic8.jpg');
+    background-size: cover;
+    height: 100%;
+}
+.item9 {background: url('img/pic17.jpg');
+    background-size: cover;
+}
+.item10 {
+    background: url('img/pic16.jpg');
+    background-size: cover;
+    height: 100%;
+}
+.item11 {
+    background: url('img/pic13a.jpg');
+    background-size: cover;
+}
+/*ec4646*/

@@ -1,0 +1,25 @@
+h1 {
+    color: #07689f;}
+a {color: #07689f;}
+h2 {color: #ffc93c;}
+h3, p{color: #07689f;}
+ul {color: #07689f;}
+button{
+    background-color: #ffc93c;
+    color: white;
+}
+
+
+.flex-content-top {box-shadow: 3px 7px 6px 3px #00000040;}
+.flex-content-top h3{
+    color: white;
+}
+
+.item0 {background-color: #ffc93c;}
+.item2 {background-color: #ffc93c;}
+.item4 {background-color: #ffc93c;}
+.item5 {background-color: #ffc93c;}
+.item6 {background-color: #ffc93c;}
+.item8 {background-color: #ffc93c;}
+.item12 {background-color: #ffc93c;}
+.item13 {background-color: #ffc93c;}

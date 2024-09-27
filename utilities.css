@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+
+nav {display: inline;}
+
+h1 {font-size: 6.4rem;}
+h2 {font-size: 4rem; }
+h3 {font-size: 3rem;}
+h4 {font-size: 2rem;}
+
+p {
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1rem 0rem;
+}
+
+a {
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+button {
+    font-weight: bold;
+    border: none;
+    height: 4rem;
+    width: 8%;    
+}
+
+li {
+    display: inline;
+    font-weight: bold;
+    font-size: 1.3rem;
+    padding: 2.8%;
+}
+
+input {
+    border: none;
+    border-radius: 3px;
+    height: 4rem;
+}
+
+sub {
+
+}
+
+.container-body {
+    background-position: center;
+    background-size: cover;
+    height: 83rem;
+}
+
+.container-left-text {
+
+} 
+
+.flex {
+    display: flex;  
+}
+
+.flexbox {
+    flex-wrap: wrap;
+}
+
+/*IMAGES*/
+.main-container {
+    
+}
+
+.main-container-header {
+    text-align: center;
+}
+
+
+.margin-content button{
+
+}
+
+.nav-header li , .nav-footer li {
+    padding: 2%;
+}
+
+.nav-search-w-button input, 
+.newsletter-container input {
+    border: 1px solid rgb(138, 138, 138);
+}
+
+
+
+
+
+

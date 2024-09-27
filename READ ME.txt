@@ -1,0 +1,11 @@
+-- READ ME --
+
+	- Open .html file using VS-CODE>"right click">Open With Live Server
+
+code & design by;
+
+	**FRITZ JHYELU C. ORPILLA**
+
+	source:
+
+		www.guidetothephilippines/baguio-city
